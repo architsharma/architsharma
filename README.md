@@ -10,10 +10,9 @@
   <!--social media icon-->
 <div align="center">
  
- 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/architsharma)
-[![Linkedin Badge](https://img.shields.io/badge/-Sachin%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=writeyou linked url/)](https://www.linkedin.com/in/hackcoderr/) [![Twitter Badge](http://img.shields.io/badge/-@architsharma-1ca0f1?style=social&logo=twitter&logoColor=blue&link=write your twitter username url)](write your twitter username url) [![GitHub followers](https://img.shields.io/github/followers/architsharma?label=Follow&style=social)](https://github.com/architsharma/?tab=follow)
-[![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=write your insta username url/)](write your intsa username url/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Sachin%20Kumar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/hackcoderr/)](https://www.linkedin.com/in/hackcoderr/) [![Twitter Badge](http://img.shields.io/badge/-@hackcoderr-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/hackcoderr)](https://twitter.com/hackcoderr) [![GitHub followers](https://img.shields.io/github/followers/hackcoderr?label=Follow&style=social)](https://github.com/hackcoderr/?tab=follow)
+[![Instagram Badge](https://img.shields.io/badge/-hackcoderr-blue?style=social&logo=Instagram&link=https://www.instagram.com/hackcoderr/)](https://www.instagram.com/hackcoderr/) 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=architsharma.architsharma)
 
 </div>  
